@@ -33,6 +33,8 @@ Aplikasi ini menggunakan dua interface penanganan kejadian (*event handling*) ya
 
 ## 📸 Screenshot Aplikasi
 
+<img width="976" height="688" alt="image" src="https://github.com/user-attachments/assets/e76d41a9-6c66-47fc-9666-e9a413aacb59" />
+<img width="980" height="690" alt="image" src="https://github.com/user-attachments/assets/b9bf4e28-b338-4bdf-bc4b-1fd83555a572" />
 
 
 ## 🚀 Cara Menjalankan Program
